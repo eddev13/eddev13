@@ -10,7 +10,7 @@ Hi! I'm a student of web development living in Brazil. Since 2019 I have dedicat
 ## Courses
 [B7Web](https://b7web.com.br/) - Bonieky Lacerda /  <i> senior developer</i> <br>
 [Cod3r](https://b7web.com.br/) - Leonardo Leitão / <i> senior developer</i> <br>
-[Dankicode](https://cursos.dankicode.com/) - Guilherme Grillo / <i> fuulstack developer</i> <br>
+[Dankicode](https://cursos.dankicode.com/) - Guilherme Grillo / <i> fullstack developer</i> <br>
 <br>
 
 ## :computer: Technologies
