@@ -1,9 +1,5 @@
 ![Eduardo Matias](https://github.com/eddev13/eddev13/blob/main/eddev13-pic.png)
 
-## Eduardo Matias
-:envelope: **email:** eddev13@outlook.com <br>
-:phone: **phone:** +55 41 99234-6044 <br>
-:briefcase: [LinkedIn](https://linkedin.com/in/eddev13)
 
 Hi! I'm a student of web development living in Brazil. Since 2019 I have dedicated a lot of time to learning the needed technologies to develop web applications and mobile. Now in 2021 I feel that is the time to face real challenges. If your company to need a web developer, I'm here very motivated.<br>
 
